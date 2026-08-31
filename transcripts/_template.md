@@ -5,13 +5,22 @@ console:
 status: session
 titles:
   - name:
-    beat: playing
+    play: played
+    note:
 hardware:
 ---
 
-## Session
+## Played
 
-What happened.
+What was played.
+
+## Keepers and once
+
+Only if he called it.
+
+## Side note
+
+Beat or 100% only if it matters. Skip otherwise.
 
 ## Why it matters to the journey
 

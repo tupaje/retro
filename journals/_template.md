@@ -5,8 +5,8 @@ console:
 status: session
 titles:
   - name:
-    beat: playing
+    play: played
 from: transcripts/YYYY-MM-DD-console-slug.md
 ---
 
-Cleaned from the transcript. Same facts. Tighter sentences. Still no encyclopedia copy.
+Cleaned from the public transcript. Same facts. Tighter sentences. Played first. No encyclopedia copy. No personal names.

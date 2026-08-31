@@ -1,59 +1,65 @@
 # What this repo stores
 
-Transcript first. The site later. Do not paste encyclopedia data.
+Public cleaned transcripts only. Raw notes stay off this repo.
+No personal names, addresses, emails, workplaces, or off-record talk.
+
+The site later. Do not paste encyclopedia data.
+
+## Objective
+
+The record is what was *played*.
+
+Beaten, 100%, or beat-to-credit is a side note when it matters to him — not the point of the file.
+
+A **keeper** is a game with high replay value; it stays.
+A game worth one pass and not another is **once** — can still be great.
+Neither label needs a review-score or a plot summary.
 
 ## Two layers
 
-1. `transcripts/` — source of truth. Raw notes from a session or from a brother console update. Keep voice. Fix only names and dates if they are wrong.
-2. `journals/` — cleaned version for retro.tupadesigns.com. Written from the transcript. Still no wiki filler.
+1. Private raw notes — chat, voice, email. Not committed here.
+2. `transcripts/` — public cleaned source of truth.
+3. `journals/` — further cleaned copy for retro.tupadesigns.com.
 
-One session = one file. Do not batch a whole library into a dump.
+One arc or sitting = one file. Do not batch a whole library into a dump.
 
 ## Filename
 
 `YYYY-MM-DD-console-short-slug.md`
 
-Examples:
+Console slug is lowercase and short: `nes`, `n64`, `vb`, `ps2`, `atari2600`.
 
-- `transcripts/2026-08-29-nes-library-complete.md`
-- `journals/2026-08-29-nes-library-complete.md`
-
-Console slug is lowercase and short: `nes`, `n64`, `ps2`, `atari2600`.
-
-## Front matter (required)
+## Front matter
 
 ```yaml
 ---
 date: YYYY-MM-DD
-source: brother | jeffry
+source: brother | owner
 console:
-status: session | started | finished | library-complete | paused
+status: session | started | played | paused
 titles:
   - name:
-    beat: started | playing | finished | dropped
+    play: played | keeper | once
+    note:           # optional: beaten, 100%, dropped
 ---
 ```
 
 Leave a field out if you do not know it. Do not invent it.
 
-`hardware` is optional and only if it is *this* setup (cart, flash cart, CRT, which copy). Skip it when it is generic.
+`hardware` is optional and only if it is *this* setup. Skip it when it is generic.
+
+Do not list every title in a library. Name the ones that change the journey or carry a keeper/once call.
 
 ## Body — only journey beats
 
-Write what cannot be googled:
-
-- what actually happened in this session
-- why this title or console now
-- what changed about the project (pace, rules, interest)
-- a detail of play or hardware that is yours
+- what was played in this stretch
+- keepers vs once, when he made that call
+- what changed about the project (pace, rules, hardware, taste)
+- beat or 100% only as a short side note
 - what is next, in one line
 
 ## Do not store
 
-Release year, publisher, genre, plot, review scores, sales, Wikipedia trivia, complete library lists copied from elsewhere.
+Personal identity. Release year, publisher, plot, review scores, sales, copied library lists.
 
-A title name is enough to identify the game. Everything else about the game already lives on other sites.
-
-## First file to write
-
-Copy `transcripts/_template.md`. Fill one real session. Then stop.
+A title name is enough. Genre only when it is *his* ranking of taste, not a wiki tag.
