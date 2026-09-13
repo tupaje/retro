@@ -10,7 +10,9 @@ Journal of playing analog-era console libraries — earliest systems through the
 - Cutoff: 6th generation (PlayStation 2, Xbox, GameCube, etc.)
 - Approach: Play unique official software from each console's lifetime. Beaten or 100% is a side note.
 - A keeper is high replay value. A great game can still be once-only.
-- Current mark: N64 and Virtual Boy played. Next pass is Atari 5200. Genesis is queued.
+- Played with transcripts: N64, Virtual Boy.
+- Played this year, transcripts still due: Atari 2600, NES, Game Boy, Game Boy Color.
+- Queued: Genesis. Atari 5200 named as the other second-gen start; no pass file yet.
 - Public files only. No personal names. See `FORMAT.md`.
 
 ## Goals
