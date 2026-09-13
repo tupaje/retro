@@ -11,7 +11,7 @@ Journal of playing analog-era console libraries — earliest systems through the
 - Approach: Play unique official software from each console's lifetime. Beaten or 100% is a side note.
 - A keeper is high replay value. A great game can still be once-only.
 - Played with transcripts: N64, Virtual Boy.
-- Played this year, transcripts still due: Atari 2600, NES, Game Boy, Game Boy Color.
+- Played this year, transcripts still due: Atari 2600, NES, Game Boy, Game Boy Color, Game Gear.
 - Queued: Genesis. Atari 5200 named as the other second-gen start; no pass file yet.
 - Public files only. No personal names. See `FORMAT.md`.
 
