@@ -8,9 +8,9 @@ Journal of playing analog-era console libraries — earliest systems through the
 
 - Focus: Analog / offline-first consoles only
 - Cutoff: 6th generation (PlayStation 2, Xbox, GameCube, etc.)
-- Approach: Play through libraries. Beaten or 100% is a side note.
+- Approach: Play unique official software from each console's lifetime. Beaten or 100% is a side note.
 - A keeper is high replay value. A great game can still be once-only.
-- Current mark: N64 library played; Virtual Boy next. NES play is noted on the homepage until its own transcript exists.
+- Current mark: N64 and Virtual Boy played. Next pass is Atari 5200. Genesis is queued.
 - Public files only. No personal names. See `FORMAT.md`.
 
 ## Goals

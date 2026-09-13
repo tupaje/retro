@@ -15,19 +15,28 @@ A **keeper** is a game with high replay value; it stays.
 A game worth one pass and not another is **once** — can still be great.
 Neither label needs a review-score or a plot summary.
 
+## Set rule (from Virtual Boy forward)
+
+Play every unique official software experience for that console.
+
+In: licensed games released during the console's commercial life.
+Out: re-releases, aftermarket, homebrew, prototypes, unlicensed.
+
+On a pass: play each title, learn the mechanics, gauge the experience.
+
 ## Two layers
 
 1. Private raw notes — chat, voice, email. Not committed here.
 2. `transcripts/` — public cleaned source of truth.
 3. `journals/` — further cleaned copy for retro.tupadesigns.com.
 
-One arc or sitting = one file. Do not batch a whole library into a dump.
+One console pass = one file. Do not batch a whole library into a dump.
 
 ## Filename
 
 `YYYY-MM-DD-console-short-slug.md`
 
-Console slug is lowercase and short: `nes`, `n64`, `vb`, `ps2`, `atari2600`.
+Console slug is lowercase and short: `nes`, `n64`, `vb`, `atari5200`, `atari2600`, `genesis`, `ps2`.
 
 ## Front matter
 
@@ -36,19 +45,21 @@ Console slug is lowercase and short: `nes`, `n64`, `vb`, `ps2`, `atari2600`.
 date: YYYY-MM-DD
 source: brother | owner
 console:
-status: session | started | played | paused
+status: session | started | played | paused | queued
 titles:
   - name:
     play: played | keeper | once
-    note:           # optional: beaten, 100%, dropped
+    note:
 ---
 ```
 
 Leave a field out if you do not know it. Do not invent it.
 
-`hardware` is optional and only if it is *this* setup. Skip it when it is generic.
+`hardware` is optional and only if it is *this* setup.
 
 Do not list every title in a library. Name the ones that change the journey or carry a keeper/once call.
+
+Queued consoles get one line, not a title dump.
 
 ## Body — only journey beats
 
