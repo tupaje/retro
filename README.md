@@ -10,10 +10,10 @@ Journal of playing analog-era console libraries — earliest systems through the
 - Cutoff: 6th generation (PlayStation 2, Xbox, GameCube, etc.)
 - Approach: Play unique official software from each console's lifetime. Beaten or 100% is a side note.
 - A keeper is high replay value. A great game can still be once-only.
-- Played with transcripts: N64, Virtual Boy.
-- Played this year, transcripts still due: Atari 2600, NES, Game Boy, Game Boy Color, Game Gear, Sega CD.
-- Count: 852 titles played by the end of 2025 (his count).
-- Queued: Genesis. Atari 5200 named as the other second-gen start; no pass file yet.
+- N64 official pass: 2022–2023.
+- 2025 (10): Virtual Boy, Atari 5200, Atari 7800, Master System, TurboGrafx-16, Lynx, TurboGrafx-CD, Jaguar, 32X, Jaguar CD. 852 titles by year end.
+- 2026 so far: Atari 2600, NES, Game Boy, Game Boy Color, Game Gear, Sega CD.
+- Queued: Genesis.
 - Public files only. No personal names. See `FORMAT.md`.
 
 ## Goals
