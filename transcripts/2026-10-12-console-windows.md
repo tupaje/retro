@@ -28,8 +28,8 @@ Eligible unique-official title counts are listed after each window.
 | Sega 32X | 1994 | 1996 | 31 |
 | Sega Saturn | 1995 |  | 240+ |
 | Virtual Boy | 1995 | 1996 | 14 |
-| Atari Jaguar CD | 1995 | 1996 | 13 |
 | PlayStation | 1995 |  | 1300+ |
+| Atari Jaguar CD | 1995 | 1997 | 13 |
 | Nintendo 64 | 1996 | 2002 | 296 |
 | Game Boy Color | 1998 | 2002 | 443 |
 | Dreamcast | 1999 |  | 250+ |
